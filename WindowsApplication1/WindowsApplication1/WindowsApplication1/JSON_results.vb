@@ -1,0 +1,45 @@
+﻿Public Class JSON_results
+    'Added all fields of Contacts Table
+    Public ID As Integer
+    Public Name As String
+    Public Salutation As String
+    Public FirstName As String
+    Public LastName As String
+    Public Suffix As String
+    Public Email As String
+    Public Phone As String
+    Public Mobile As String
+    Public Fax As String
+    Public Address1 As String
+    Public Address2 As String
+    Public City As String
+    Public State As String
+    Public ZipCode As String
+    Public Country As String
+    Public Title As String
+    Public EmailOptout As Boolean
+    Public VoiceOptout As Boolean
+    Public TextOptout As Boolean
+    Public FaxOptout As Boolean
+    Public PrintOptout As Boolean
+    Public SourceCode As String
+    Public OwnerName As String
+    Public OwnerEmail As String
+    Public CompanyID As Integer
+    Public CreatedDate As Date
+    Public CreatedBy As Integer
+    Public LastModifiedDate As Date
+    Public LastModifiedBy As Integer
+    Public ClientID As Integer
+    Public TwitterHandle As String
+    Public FacebookID As String
+    Public PhotoUrl As String
+    Public GoogleID As String
+    Public LinkedInID As String
+    Public FacebookUrl As String
+    Public TwitterUrl As String
+    Public GoogleUrl As String
+    Public LinkedInUrl As String
+    Public FourSquareUrl As String
+    Public KloutUrl As String
+End Class
