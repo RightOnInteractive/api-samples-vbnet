@@ -1,4 +1,8 @@
-﻿Imports System.Text
+﻿'   This sample source code is provided as-is. Use this at your own discretion.
+'	We reserve the right to update or remove this source code at any time.
+'   Author: Devin Edmundowicz
+
+Imports System.Text
 Imports System.Net
 Imports System.Security.Cryptography
 Imports System.IO

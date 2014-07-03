@@ -11,3 +11,6 @@ C:\Users\dedmundowicz\Documents\Visual Studio 2010\Projects\WindowsApplication1\
 C:\Users\dedmundowicz\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Newtonsoft.Json.xml
 C:\Users\dedmundowicz\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Authentication.vbprojResolveAssemblyReference.cache
 C:\Users\dedmundowicz\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmRequirements.resources
+C:\Users\dedmundowicz\Documents\GitHub\api-samples-vbnet\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\dedmundowicz\Documents\GitHub\api-samples-vbnet\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\dedmundowicz\Documents\GitHub\api-samples-vbnet\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
